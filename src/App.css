@@ -1,0 +1,37 @@
+img{
+  height: 500px;
+  width: 500px;
+  border: 2px solid black;
+  padding: 10px;
+  
+}
+.rings{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.rings2{
+  display: flex;
+
+}
+
+.option{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px; 
+}
+option{
+  font-size: 20px;
+  font-weight: bold;
+}
+select{
+  font-size: 20px;
+  font-weight: bold;
+}
+.fish{
+  display: flex;
+  gap: 10px;
+}

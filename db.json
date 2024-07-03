@@ -1,0 +1,76 @@
+{
+    "ring": [
+        {
+            "id": "1",
+            "name": "Dimand Ring",
+            "type": "Dimand",
+            "image_url": "/asset/ring1.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Dimand Ring",
+            "type": "Golden",
+            "image_url": "/asset/ring2.jpg"
+        },
+        {
+            "id": "3",
+            "name": " Rose Gold Dimand Ring",
+            "type": "Rosegold",
+            "image_url": "/asset/ring3.jpg"
+        },
+        {
+            "id": "4",
+            "name": " Ring",
+            "type": "Golden",
+            "image_url": "/asset/ring4.jpg"
+        },
+        {
+            "id": "5",
+            "name": " Silver Dimand Ring",
+            "type": "Silver",
+            "image_url": "/asset/ring5.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Rose Gold Dimand Ring",
+            "type": " Rosegold",
+            "image_url": "/asset/ring6.jpg"
+        },
+        {
+            "id": "7",
+            "name": " Rose Gold Dimand Ring",
+            "type": " Rosegold",
+            "image_url": "/asset/ring7.jpg"
+        },
+        {
+            "id": "8",
+            "name": " Rose Gold Dimand Ring",
+            "type": "Rosegold ",
+            "image_url": "/asset/ring8.jpg"
+        },
+        {
+            "id": "9",
+            "name": " Ring",
+            "type": "Golden",
+            "image_url": "/asset/ring9.jpg"
+        },
+        {
+            "id": "10",
+            "name": "Silver Ring",
+            "type": "Silver",
+            "image_url": "/asset/ring10.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Dimand Ring",
+            "type": "Dimand",
+            "image_url": "/asset/ring11.jpg"
+        },
+        {
+            "id": "12",
+            "name": "Dimand Ring",
+            "type": "Dimand",
+            "image_url": "/asset/ring12.jpg"
+        }
+    ]
+}
